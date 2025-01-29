@@ -3,4 +3,4 @@ Hey there! I invite you to check out my website where I've conducted an extensiv
 
 To showcase my findings, I've utilized various Python libraries such as Streamlit, Pandas, Seaborn, Matplotlib pylpot, Scipy, Plotly Express and Figure_factory. These powerful tools enabled me to visualize and present the significant insights derived from the dataset in an engaging manner.
 
-APP LINK-https://olympics-data-analysis-vqwhn2exzrs6sitwfztvw2.streamlit.app/
+LINK-https://olympics-data-analysis-vqwhn2exzrs6sitwfztvw2.streamlit.app/
